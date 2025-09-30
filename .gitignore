@@ -1,0 +1,4 @@
+# do not commit full PCAPs with sensitive data
+TASK4-Packet-Analysis/captures/*
+TASK4-Packet-Analysis/tcpflow_out/*
+TASK4-Packet-Analysis/analysis/*
